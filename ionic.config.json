@@ -1,0 +1,7 @@
+{
+  "name": "chessmate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
